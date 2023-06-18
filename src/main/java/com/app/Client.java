@@ -27,6 +27,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.text.GapContent;
 
 
+
 public class Client implements ActionListener {
 	
 	private static final int INTERFACE_WIDTH = 450;
